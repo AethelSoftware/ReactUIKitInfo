@@ -26,17 +26,6 @@ The **full kit** (available on Gumroad) includes:
 
 ---
 
-## 📦 Quick Start (Demo)
-
-```bash
-git clone https://github.com/yourusername/react-sidebar-demo.git
-cd react-sidebar-demo
-npm install
-npm run dev
-```
-
----
-
 ## 📸 Screenshots (Demo)
 
 <img width="1280" height="800" alt="Screenshot 2025-10-01 at 6 30 36 PM" src="https://github.com/user-attachments/assets/91a10bae-4a04-4373-bf34-7582786348c3" />
