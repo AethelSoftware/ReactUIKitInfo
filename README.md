@@ -7,24 +7,16 @@ This is a **demo repo** showcasing a small subset of the full kit available on *
 
 ---
 
-## ✨ What’s Inside (Demo Version)
+## ✨ What’s Inside
 
-This public demo includes:
+This kit includes:
 
-* ✅ A **free sample Sidebar** (basic version)
-* ✅ A **Navbar component** (limited styles)
-* ✅ Example `App.jsx` file for quick usage
+* ✅ A **Sidebar**
+* ✅ A **Navbar**
+* ✅ A **Modal**
+* ✅ Detailed instructions
+* ✅ JSX & TSX compatibility
 
-The **full kit** (available on Gumroad) includes:
-
-* ⚡ Advanced Sidebar (collapsible, nested menus, dark/light modes)
-* ⚡ Modal & Dialog Components
-* ⚡ Multiple Navbar styles
-* ⚡ Notification + Toast system
-* ⚡ TypeScript & JavaScript versions
-* ⚡ Fully customizable styles with Tailwind or plain CSS
-
----
 
 ## 📸 Screenshots (Demo)
 
