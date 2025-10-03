@@ -1,4 +1,4 @@
-# Premium React Sidebar & UI Components Kit (Demo)
+# Premium React Sidebar & UI Components Kit
 
 A modern, sleek **React Sidebar + UI Components preview** — built for speed, aesthetics, and easy integration.
 This is all information full kit available **(https://aethelcode.gumroad.com/l/reactcomponentkit)**.
@@ -18,7 +18,7 @@ This kit includes:
 * ✅ JSX & TSX compatibility
 
 
-## 📸 Screenshots (Demo)
+## 📸 Screenshots
 
 <img width="1280" height="800" alt="Screenshot 2025-10-01 at 6 30 36 PM" src="https://github.com/user-attachments/assets/91a10bae-4a04-4373-bf34-7582786348c3" />
 
