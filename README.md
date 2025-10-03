@@ -1,7 +1,7 @@
 # Premium React Sidebar & UI Components Kit (Demo)
 
 A modern, sleek **React Sidebar + UI Components preview** — built for speed, aesthetics, and easy integration.
-This is a **demo repo** showcasing a small subset of the full kit available on **[Gumroad](#)**.
+This is all information full kit available **(https://aethelcode.gumroad.com/l/reactcomponentkit)**.
 
 🚀 Save time, ship faster, and level up your projects with production-ready UI components.
 
