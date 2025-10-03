@@ -50,15 +50,46 @@ For questions or issues, email: **[aethelsoftware@gmail.com](mailto:aethelsoftwa
 ### Repo Structure
 
 ```bash
-demo-repo/
- ├─ src/
- │   ├─ components/
- │   │   ├─ SidebarDemo.jsx   # free sample
- │   │   ├─ NavbarDemo.jsx    # free sample
- │   ├─ App.jsx               # demo usage
- ├─ screenshots/
- │   ├─ sidebar.png
- │   ├─ navbar.png
- ├─ README.md
- └─ package.json
+UI Pieces/   #all the components, JSX & TSX
+ ├─ modals/
+ │   ├─ modal.jsx/
+ │   ├─ modal.tsx/
+ ├─ navbars/
+ │   ├─ navbar.jsx/
+ │   ├─ navbar.tsx/
+ ├─ sidebars/
+ │   ├─ sidebar.jsx/
+ │   ├─ sidebar.tsx/
+testapp/    #vite application for testing
+│
+├── public/
+│   └── Aethel Software.png
+│
+├── src/
+│   ├── assets/
+│   │   └── react.svg
+│   │
+│   ├── components/ 
+│   │
+│   ├── modals/         
+│   │   └── modal.jsx     
+│   │
+│   ├── navbars/         
+│   │   └── navbar.jsx    
+│   │
+│   ├── sidebars/        
+│   │   └── sidebar.jsx  
+│   │
+│   ├── App.jsx   #page that is rendered for testing
+│   ├── index.css
+│   └── main.jsx
+│
+├── .gitignore
+├── README.md        
+├── eslint.config.js
+├── index.html
+├── package-lock.json
+├── package.json
+├── vite.config.js
+└── README.md     #README for more information
 ```
